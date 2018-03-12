@@ -16,7 +16,7 @@ I have complete the assignment using JavaScript and Nodejs. My implementation al
 * test.js ( A file containing all the test cases )
 * utils.js ( File containing all the necessary methods )
 
-# Excecution
+# Execution
 Inorder to run the program, you need to make sure that Node is installed in your System. You can  install node from [here]( https://nodejs.org/en/ ). Once Node is installed on your system, you need to run the following commands.
 
 1. npm install
