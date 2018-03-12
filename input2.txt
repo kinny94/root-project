@@ -1,0 +1,19 @@
+Driver Dan
+Driver Alex
+Driver Bob
+Driver Rick
+Driver Martin
+Driver Ronald
+Driver Sam
+Trip Dan 07:15 07:45 17.3
+Trip Dan 06:12 06:32 21.8
+Trip Alex 12:01 13:16 42.0
+Trip Sam 05:00 12:00 35.4
+Trip Sam 15:00 16:45 70.3
+Trip Rick 22:00 23:04 3.7
+Trip Rick 22:00 23:00 5.1
+Trip Ronald 14:00 15:00 102
+Trip Ronald 16:31 17:50 39
+Trip Martin 01:00 04:45 56.7
+Trip Martin 03:00 09:32 79.56
+Trip Dan 05:00 13:00 190.50
