@@ -1,6 +1,6 @@
 const assert = require( 'assert' );
 const expect = require( 'chai' ).expect;
-const utils = require( './utils' );
+const utils = require( '../utils/utils' );
 const fs = require ( 'fs' );
 
 describe( 'Calculate Time Function ', () => {

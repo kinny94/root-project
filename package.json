@@ -4,8 +4,8 @@
 	"description": "Coding Assignment - Root ",
 	"main": "Solution.js",
 	"scripts": {
-		"test": "node_modules/mocha/bin/mocha ./test.js",
-		"start": "node_modules/mocha/bin/mocha ./test.js && node index.js"
+		"test": "node_modules/mocha/bin/mocha tests/test.js",
+		"start": "node_modules/mocha/bin/mocha tests/test.js && node index.js"
 	},
 	"author": "Arjun Dass",
 	"license": "ISC",
